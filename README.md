@@ -1,2 +1,1 @@
-# RealEstateInFrance
-Explored and analyzed the 'Demandes de valeurs foncières' dataset to identify trends, examine phenomena, and draw insightful conclusions 🏡
+The final project for my 'Python Language' class was to explore and analyze the 'Demandes de valeurs foncières' dataset to identify trends, examine phenomena, and draw relevant conclusions. This dataset, released by the French government, provides information on real estate transactions that have occurred over the past five years across metropolitan France.
